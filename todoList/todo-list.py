@@ -1,7 +1,4 @@
-
-
-
-def create(text):
+def create():
     pass
 
 
